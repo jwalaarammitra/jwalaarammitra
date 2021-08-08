@@ -2,7 +2,7 @@
 
 Here is a little bit more about who I am and what I can do.
 - 💻 3rd year B.S. in Computer Science, conc. Machine Intelligence💡
-- 📚 Cert. of Entrepreneurship and Innovation Student
+- 📈 Cert. of Entrepreneurship and Innovation Student
 - 👩🏽‍💻 Seeking 2022 Software Internships
 - 😃 Hobbies: dancing💃🏽, hiking🥾, & cooking👩🏽‍🍳
 - 🍦 Favorite Flavor of Ice Cream: Rocky Road!
