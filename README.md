@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there, my name is Jwala!  👋
+
+Here is a little bit more about me:
+- 📚 
 
 <!--
 **jwalaarammitra/jwalaarammitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
