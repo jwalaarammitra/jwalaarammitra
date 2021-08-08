@@ -1,7 +1,11 @@
 ### Hey there, my name is Jwala!  👋
 
 Here is a little bit more about me:
-- 📚 
+- 💻 3rd year B.S. in Computer Science, conc. Machine Intelligence💡
+- 📚 Cert. of Entrepreneurship and Innovation Student
+- 👩🏽‍💻 Seeking 2022 Software Internships
+- 😃 Hobbies: dancing💃🏽, hiking🥾, & cooking👩🏽‍🍳
+- 🍦 Favorite Flavor of Ice Cream: Rocky Road!
 
 <!--
 **jwalaarammitra/jwalaarammitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
