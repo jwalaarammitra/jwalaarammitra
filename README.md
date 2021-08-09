@@ -1,6 +1,6 @@
 ### Hey there, my name is Jwala!  👋
 
-Here is a little bit more about who I am and what I can do.
+Here is a little bit more about who I am.
 - 💻 3rd year B.S. in Computer Science, conc. Machine Intelligence💡
 - 📈 Cert. of Entrepreneurship and Innovation Student
 - 👩🏽‍💻 Seeking 2022 Software Internships
