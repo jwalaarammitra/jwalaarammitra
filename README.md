@@ -1,10 +1,11 @@
 ### Hey there, my name is Jwala!  👋
 
 Here is a little bit more about who I am.
+- 👩🏽‍💻 *Seeking 2022 Software Internships*
+
 - 💻 Purdue University: 3rd year B.S. in Computer Science, conc. Machine Intelligence💡
 - 📈 Cert. of Entrepreneurship and Innovation Student
 - 👾 Summer 2021: SWE Intern @ Align Tech
-- 👩🏽‍💻 Seeking 2022 Software Internships
 - 😃 Hobbies: dancing💃🏽, hiking🥾, & cooking👩🏽‍🍳
 - 🍦 Favorite Flavor of Ice Cream: Rocky Road!
 
