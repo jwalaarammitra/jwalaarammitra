@@ -2,7 +2,7 @@
 
 - 👩🏽‍💻 **Seeking 2022 Software Internships**
 
-Here is a little bit more about who I am.
+More about me:
 - 💻 Purdue University: 3rd year B.S. in Computer Science, conc. Machine Intelligence💡
 - 📈 Secondary Program: Cert. of Entrepreneurship and Innovation
 - 📚 Fall 2021: CS Research @ Dartmouth
