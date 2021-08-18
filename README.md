@@ -5,8 +5,8 @@
 Here is a little bit more about who I am.
 - 💻 Purdue University: 3rd year B.S. in Computer Science, conc. Machine Intelligence💡
 - 📈 Cert. of Entrepreneurship and Innovation Student
-- 👩🏽‍🔬 Fall 2021: Research @ Dartmouth
-- 👾 Prev. Software Engineer Intern @ Align Tech, Research @ Stanford & UCSC
+- 📚 Fall 2021: CS Research @ Dartmouth
+- 👾 Prev. Software Engineer Intern @ Align Tech, CS Research @ Stanford & UCSC
 - 😃 Hobbies: dancing💃🏽, hiking🥾, & cooking👩🏽‍🍳
 
 <!--
