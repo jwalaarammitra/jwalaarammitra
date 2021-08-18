@@ -8,7 +8,6 @@ Here is a little bit more about who I am.
 - 👩🏽‍🔬 Fall 2021: Research @ Dartmouth
 - 👾 Prev. Software Engineer Intern @ Align Tech, Research @ Stanford & UCSC
 - 😃 Hobbies: dancing💃🏽, hiking🥾, & cooking👩🏽‍🍳
-- 🍦 Favorite Flavor of Ice Cream: Rocky Road!
 
 <!--
 **jwalaarammitra/jwalaarammitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
