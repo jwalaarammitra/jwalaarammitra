@@ -1,6 +1,6 @@
 ### Hey there, my name is Jwala!  👋
 
-- 👩🏽‍💻 ** Interested in Artificial Intelligence & Machine Learning **
+- 👩🏽‍💻 **Interested in Artificial Intelligence & Machine Learning**
 
 More about me:
 - 💻 Purdue University: 3rd year B.S. in Computer Science, conc. Machine Intelligence💡
