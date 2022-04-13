@@ -1,13 +1,12 @@
 ### Hey there, my name is Jwala!  👋
 
-- 👩🏽‍💻 **Seeking 2022 Software Internships**
+- 👩🏽‍💻 ** Interested in Artificial Intelligence & Machine Learning **
 
 More about me:
 - 💻 Purdue University: 3rd year B.S. in Computer Science, conc. Machine Intelligence💡
-- 📈 Secondary Program: Cert. of Entrepreneurship and Innovation
-- 📚 Fall 2021: CS Research @ Dartmouth
-- 👾 Prev. Software Engineer Intern @ Align Tech, CS Research @ Stanford & UCSC
-- 😃 Hobbies: dancing💃🏽, hiking🥾, & cooking👩🏽‍🍳
+- 📚 Secondary Program: Cert. of Entrepreneurship and Innovation
+- 👾 Prev. Software Engineer Intern @ Align Tech, CS Research @ Dartmouth, Stanford, UCSC
+- 😃 Hobbies: dancing💃🏽 & cooking👩🏽‍🍳
 
 <!--
 **jwalaarammitra/jwalaarammitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
