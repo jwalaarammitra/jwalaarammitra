@@ -1,11 +1,11 @@
 ### Hey there, my name is Jwala!  👋
 
-- 👩🏽‍💻 **Interested in Artificial Intelligence & Machine Learning**
+- 👩🏽‍💻 **Graduating Dec 2022, Interested in Artificial Intelligence & Machine Learning**
 
 More about me:
-- 💻 Purdue University: 3rd year B.S. in Computer Science, conc. Machine Intelligence💡
+- 💻 Purdue University: 4th year B.S. in Computer Science, conc. Machine Intelligence💡
 - 📚 Secondary Program: Cert. of Entrepreneurship and Innovation
-- 👾 Prev. Software Engineer Intern @ Align Tech, CS Research @ Dartmouth, Stanford, UCSC
+- 👾 Prev. Software Engineer Intern @ Align Tech (Summer 2022, Summer 2021), CS Research @ Dartmouth, Stanford, UCSC
 - 😃 Hobbies: dancing💃🏽 & cooking👩🏽‍🍳
 
 <!--
