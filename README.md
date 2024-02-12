@@ -1,11 +1,11 @@
 ### Hey there, my name is Jwala!  👋
 
-- 👩🏽‍💻 **Graduating Dec 2022, Interested in Artificial Intelligence & Machine Learning**
+- 👩🏽‍💻 **Full-time Systems Engineer**
 
 More about me:
-- 💻 Purdue University: 4th year B.S. in Computer Science, conc. Machine Intelligence💡
-- 📚 Secondary Program: Cert. of Entrepreneurship and Innovation
-- 👾 Prev. Software Engineer Intern @ Align Tech (Summer 2022, Summer 2021), CS Research @ Dartmouth, Stanford, UCSC
+- 💻 Systems Engineer at Lockheed Martin
+- 📚 B.S. in Computer Science from Purdue University
+- 📖 Study analysis and data abstraction for oncology research under Professor Wasp at Dartmouth College
 - 😃 Hobbies: dancing💃🏽 & cooking👩🏽‍🍳
 
 <!--
